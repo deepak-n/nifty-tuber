@@ -14,3 +14,5 @@ Quality metrics which every youtuber needs
 - Predicting number of views according to content of the video with time frame ( after 1 day, 1 week, 1 month)
 - Most influencing Social media sharer
 - Potential Youtuber to collab
+
+To do list for G3 and Nd - https://gist.github.com/deepak-n/8655930
